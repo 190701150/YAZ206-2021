@@ -62,4 +62,4 @@ std::string semesterToStr(Semester semester)
     {
         return "Summer";
     }
-}
+} 
